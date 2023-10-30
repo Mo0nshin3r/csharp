@@ -1,0 +1,15 @@
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\bin\Debug\net6.0\hellocsharp.exe
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\bin\Debug\net6.0\hellocsharp.deps.json
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\bin\Debug\net6.0\hellocsharp.runtimeconfig.json
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\bin\Debug\net6.0\hellocsharp.dll
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\bin\Debug\net6.0\hellocsharp.pdb
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\obj\Debug\net6.0\hellocsharp.csproj.AssemblyReference.cache
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\obj\Debug\net6.0\hellocsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\obj\Debug\net6.0\hellocsharp.AssemblyInfoInputs.cache
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\obj\Debug\net6.0\hellocsharp.AssemblyInfo.cs
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\obj\Debug\net6.0\hellocsharp.csproj.CoreCompileInputs.cache
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\obj\Debug\net6.0\hellocsharp.dll
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\obj\Debug\net6.0\refint\hellocsharp.dll
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\obj\Debug\net6.0\hellocsharp.pdb
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\obj\Debug\net6.0\hellocsharp.genruntimeconfig.cache
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\obj\Debug\net6.0\ref\hellocsharp.dll
