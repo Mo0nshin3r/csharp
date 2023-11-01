@@ -1,0 +1,15 @@
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\Test encryption\bin\Debug\net6.0\Test encryption.exe
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\Test encryption\bin\Debug\net6.0\Test encryption.deps.json
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\Test encryption\bin\Debug\net6.0\Test encryption.runtimeconfig.json
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\Test encryption\bin\Debug\net6.0\Test encryption.dll
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\Test encryption\bin\Debug\net6.0\Test encryption.pdb
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\Test encryption\obj\Debug\net6.0\Test encryption.csproj.AssemblyReference.cache
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\Test encryption\obj\Debug\net6.0\Test encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\Test encryption\obj\Debug\net6.0\Test encryption.AssemblyInfoInputs.cache
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\Test encryption\obj\Debug\net6.0\Test encryption.AssemblyInfo.cs
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\Test encryption\obj\Debug\net6.0\Test encryption.csproj.CoreCompileInputs.cache
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\Test encryption\obj\Debug\net6.0\Test encryption.dll
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\Test encryption\obj\Debug\net6.0\refint\Test encryption.dll
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\Test encryption\obj\Debug\net6.0\Test encryption.pdb
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\Test encryption\obj\Debug\net6.0\Test encryption.genruntimeconfig.cache
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\Test encryption\obj\Debug\net6.0\ref\Test encryption.dll

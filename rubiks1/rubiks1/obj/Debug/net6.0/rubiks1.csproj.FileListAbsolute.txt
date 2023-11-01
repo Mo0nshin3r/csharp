@@ -1,0 +1,5 @@
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\rubiks1\rubiks1\obj\Debug\net6.0\rubiks1.csproj.AssemblyReference.cache
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\rubiks1\rubiks1\obj\Debug\net6.0\rubiks1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\rubiks1\rubiks1\obj\Debug\net6.0\rubiks1.AssemblyInfoInputs.cache
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\rubiks1\rubiks1\obj\Debug\net6.0\rubiks1.AssemblyInfo.cs
+C:\Users\pe27igm\Documents\MSIG\hellocsharp\rubiks1\rubiks1\obj\Debug\net6.0\rubiks1.csproj.CoreCompileInputs.cache
